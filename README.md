@@ -1,6 +1,6 @@
 # uber-clone
 
-In this project, I utilized React Native, Multiple Google APIs and Redux. Images will be shown below.
+In this project, I utilized React Native, Multiple Google APIs and Redux. Images of final build are below.
 
 <img align="left" src="https://user-images.githubusercontent.com/67409144/185043499-3f6aab47-f88a-43b9-b79f-d09a6626f8a5.jpeg" width=30% height=30%>
 
