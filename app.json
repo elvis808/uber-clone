@@ -2,12 +2,14 @@
   "expo": {
     "name": "ub",
     "slug": "ub",
+    "privacy": "public",
+    "description": "This application is a clone of Uber that utilizes ReactJs, Multiple Google APIs and Redux.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/uber-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/uber-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
